@@ -5,3 +5,7 @@
  <li>🌞🌙 Now you can crunch numbers in style with a built-in light and dark mode.
  <li>Making math look good! 💡 #SimpleCalculator #DIYProject #CodingFun
 </ul>
+
+#Image of the project
+
+![logo](https://github.com/Arun-webcode/Simple-Calculator-Mini-Project/blob/main/calculator.png?raw=true)
